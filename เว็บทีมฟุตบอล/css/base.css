@@ -1,0 +1,18 @@
+/* รีเซ็ตค่าเริ่มต้นของเบราว์เซอร์ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Kanit', sans-serif;
+}
+
+body {
+  background-color: #050a15; 
+  color: #ffffff;
+  line-height: 1.5;
+}
+
+/* ลบเส้นใต้ของลิงก์ทั้งหมด */
+a { 
+  text-decoration: none; 
+}
